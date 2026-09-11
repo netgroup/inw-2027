@@ -6,7 +6,7 @@ const geist = Geist({ variable: '--font-geist-sans', subsets: ['latin'] });
 const newsreader = Newsreader({ variable: '--font-newsreader', subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://inw-2027.fuzzy-coin-5253.chatgpt.site'),
+  metadataBase: new URL('https://inw-2027.pierpaolo-loreti.chatgpt.site'),
   title: 'INW 2027 — Italian Networking Workshop',
   description: 'The 23rd Italian Networking Workshop, 19–21 January 2027 at Hotel Carlo Magno in Madonna di Campiglio, Italy.',
   openGraph: { title: 'INW 2027 — Italian Networking Workshop', description: '19–21 January 2027 · Madonna di Campiglio, Italy', type: 'website', images: ['/og.png'] },
